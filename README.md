@@ -3,5 +3,5 @@ a repository to learn
 
 Hi Humans!
 
-A C/C++ language learning repositroy here!
+A C/C++ language learning repository here!
 
